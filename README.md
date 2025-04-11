@@ -53,7 +53,6 @@
 <body>
     <div class="container">
         <h1>Lonchería La Esperanza</h1>
-        
         <h2>Desayunos</h2>
         <div class="menu-item">
             <h3>Chilaquiles Verdes</h3>
@@ -65,7 +64,6 @@
             <p>Huevos estrellados sobre tortilla frita con salsa ranchera y aguacate.</p>
             <p class="price">$75</p>
         </div>
-
         <h2>Comidas</h2>
         <div class="menu-item">
             <h3>Mole Poblano</h3>
@@ -77,7 +75,6 @@
             <p>Tortillas rellenas de pollo con salsa cremosa de tomatillo y gratinadas con queso.</p>
             <p class="price">$95</p>
         </div>
-
         <h2>Bebidas</h2>
         <div class="menu-item">
             <h3>Agua de Horchata</h3>
